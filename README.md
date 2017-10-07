@@ -1,3 +1,3 @@
 # unicorn-names
 
-This is randome unicorn name
+This is randome unicorn names.
