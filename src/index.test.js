@@ -13,13 +13,13 @@ describe('unicorn-names', function() {
       }
     });
 
-    it('should contain `Luke Skywalker`', function() {
-      expect(starWars.all).to.include('Luke Skywalker');
+    it('should contain `Sterling`', function() {
+      expect(starWars.all).to.include('Sterling');
     });
   });
 
   describe('random', function() {
-    it('should return a random item from the starWars.all', function() {
+    it('should return a random item from the unicorn.all', function() {
       var randomItem = starWars.random();
       expect(starWars.all).to.include(randomItem);
     });
