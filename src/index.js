@@ -1,5 +1,5 @@
 import uniqueRandomArray from 'unique-random-array';
-import starWarsNames from './starwars-names.json';
+import starWarsNames from './unicorn-names.json';
 
 const getRandomItem = uniqueRandomArray(starWarsNames);
 
