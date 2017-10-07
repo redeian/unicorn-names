@@ -1,6 +1,6 @@
 {
   "name": "unicorn-names",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.1",
   "description": "Get random unicorn names",
   "main": "dist/index.js",
   "scripts": {
